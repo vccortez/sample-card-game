@@ -1,4 +1,4 @@
-package com.tardigrade.utils;
+package io.vcortez.samplecardgame.tardigrade.utils;
 
 public class Flag{
 	public final static String CUSTOM = "Custom";

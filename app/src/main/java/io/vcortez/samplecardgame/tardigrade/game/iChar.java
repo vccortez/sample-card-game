@@ -1,6 +1,6 @@
-package com.tardigrade.game;
+package io.vcortez.samplecardgame.tardigrade.game;
 
-import com.tardigrade.utils.iCallback;
+import io.vcortez.samplecardgame.tardigrade.utils.iCallback;
 
 public interface iChar {
 	void setAttribute(String attribute, String value);

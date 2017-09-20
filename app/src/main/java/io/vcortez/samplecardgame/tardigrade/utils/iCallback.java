@@ -1,6 +1,6 @@
-package com.tardigrade.utils;
+package io.vcortez.samplecardgame.tardigrade.utils;
 
-import com.tardigrade.comunication.iPack;
+import io.vcortez.samplecardgame.tardigrade.comunication.iPack;
 
 public interface iCallback {
 	void callingBack(iPack pack);

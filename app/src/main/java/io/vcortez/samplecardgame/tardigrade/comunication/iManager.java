@@ -1,6 +1,6 @@
-package com.tardigrade.comunication;
+package io.vcortez.samplecardgame.tardigrade.comunication;
 
-import com.tardigrade.utils.iCallback;
+import io.vcortez.samplecardgame.tardigrade.utils.iCallback;
 
 public interface iManager {
 	void registerObserver(iChannel channel);

@@ -1,4 +1,4 @@
-package com.tardigrade.utils;
+package io.vcortez.samplecardgame.tardigrade.utils;
 
 public interface StatusListener{
     void onStart(Object object);             // Quando começa a verificação

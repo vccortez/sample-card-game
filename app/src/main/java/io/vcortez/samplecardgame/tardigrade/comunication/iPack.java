@@ -1,4 +1,4 @@
-package com.tardigrade.comunication;
+package io.vcortez.samplecardgame.tardigrade.comunication;
 
 public interface iPack{
     void setValue(Object value);

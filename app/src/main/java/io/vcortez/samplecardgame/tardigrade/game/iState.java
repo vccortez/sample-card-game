@@ -1,7 +1,6 @@
-package com.tardigrade.game;
+package io.vcortez.samplecardgame.tardigrade.game;
 
-import com.tardigrade.utils.iCallback;
-import com.well.components.Code;
+import io.vcortez.samplecardgame.tardigrade.utils.iCallback;
 
 import java.util.List;
 
@@ -12,7 +11,7 @@ public interface iState{
 
 	interface iTuple {
 		void append(Object object);
-		Code getOperation();
+		Integer getOperation();
 		List<Object> retrieve();
 	}
 }

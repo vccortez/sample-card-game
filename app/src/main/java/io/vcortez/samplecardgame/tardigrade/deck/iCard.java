@@ -1,4 +1,4 @@
-package com.tardigrade.deck;
+package io.vcortez.samplecardgame.tardigrade.deck;
 
 public interface iCard {
 	void setId(String id);

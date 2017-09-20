@@ -1,6 +1,6 @@
-package com.tardigrade.deck;
+package io.vcortez.samplecardgame.tardigrade.deck;
 
-import com.tardigrade.utils.iCallback;
+import io.vcortez.samplecardgame.tardigrade.utils.iCallback;
 
 import java.io.IOException;
 import java.util.List;
